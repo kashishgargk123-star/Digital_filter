@@ -73,3 +73,6 @@ Full explanation of each result is in `performance_analysis.md`.
   hardware multipliers are needed — synthesis tools will implement
   the ×1 and ×3 multiplies as shifts/shift-adds.
 - The `/8` normalization is done as an arithmetic right shift by 3.
+
+  ## Author
+  Kashish
